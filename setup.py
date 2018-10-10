@@ -12,7 +12,7 @@ setup(
     license="MIT",
     url="https://github.com/xingkongliang/TLUtils",
     packages = find_packages(),
-    zip_safe=True,
+    zip_safe=False,
 )
 
 install_requires=[

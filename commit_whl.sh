@@ -31,9 +31,10 @@ fi
 echo "re-install TLUtils ....................................."
 echo
 cd ..
-pip uninstall TLUtils
-cd TLUtils
-pip install dist/TLUtils-0.1.0-py2.py3-none-any.whl
+which pip
+pip uninstall -y TLUtils
+# cd TLUtils
+pip install TLUtils/dist/TLUtils-0.1.0-py2.py3-none-any.whl --user 
 
 echo
 echo "re-install TLUtils complete."

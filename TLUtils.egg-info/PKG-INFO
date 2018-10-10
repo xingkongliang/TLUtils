@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: TLUtils
+Version: 0.1.0
+Summary: some analysis and visualize utils code for pytorch coding
+Home-page: https://github.com/xingkongliang/TLUtils
+Author: tianliang
+Author-email: tianliangjay@gmail.com
+License: MIT
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

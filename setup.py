@@ -11,7 +11,7 @@ setup(
     # long_description=open("README.rst").read(),
     license="MIT",
     url="https://github.com/xingkongliang/TLUtils",
-    packages = find_packages(),
+    packages=find_packages(),
     zip_safe=False,
 )
 

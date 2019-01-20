@@ -8,4 +8,8 @@ TLUtils.egg-info/top_level.txt
 tlutils/__init__.py
 tlutils/pytorch/__init__.py
 tlutils/utils/__init__.py
+tlutils/utils/boxes.py
 tlutils/utils/caltech_eval.py
+tlutils/utils/send_message.py
+tlutils/utils/test.py
+tlutils/utils/vis.py
